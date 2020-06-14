@@ -119,8 +119,3 @@ $ git push origin
 ```
 - Create a Pull Request by clicking the ```New pull request``` button on your repository page.
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/saivittalb/) 
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-
-<p align="center"> Copyright (c) 2020 Sai Vittal B. All rights reserved.</p>
-<p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
