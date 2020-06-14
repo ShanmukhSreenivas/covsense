@@ -15,7 +15,6 @@ Available in Dark and Light themes. Themes are pre-chosen depending on the user 
 ## License
 This project is licensed under the Apache License 2.0, a permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code. Trademark use is also strictly prohibited. Any material found which vandalises or threatens any sort of plagiarism will be strictly given a legal action.
 
-<p align="center"> Copyright (c) 2020 Sai Vittal B. All rights reserved.</p>
 
 ## Preview
 
